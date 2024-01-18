@@ -1,4 +1,3 @@
-Project Link:https://bit.ly/3SStC4o 
 
 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 Sales Analytics using 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 & 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲 and Publishing it Using 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐒𝐞𝐫𝐯𝐢𝐜𝐞
 
